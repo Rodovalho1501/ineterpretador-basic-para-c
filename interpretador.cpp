@@ -226,5 +226,5 @@ int main() {
     carregarPrograma("interpretador.txt");
 
     // Executa o programa carregado
-    executarPrograma();
+    executarPrograma();,
 }
