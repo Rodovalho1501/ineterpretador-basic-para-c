@@ -1,0 +1,8 @@
+10 rem Guilherme Rodovalho 
+20 rem PROG. Interpretador
+30 print "Digite N"
+40 S=0 : input N
+50 A=N
+70 S=S+A : A=A-1
+90 print N : print S
+100 halt
